@@ -1,18 +1,17 @@
-# Blog 02
-
-
-
-***
-<table align="center" width="100%">
+<table align="center">
   <tr>
     <td align="center">
       <a href="./Blog01.md">Anterior</a>
     </td>
     <td align="center">
-      <a href="https://github.com/negebauer/IIC3633-Blog">Ver todo</a>
+      <a href="./README.md">Ver todo</a>
     </td>
     <td align="center">
-      <a href="./Blog03.md">Siguiente</a>
+      <del>Siguiente</del>
     </td>
   </tr>
 </table>
+
+***
+
+# Blog 02
