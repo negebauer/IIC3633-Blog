@@ -1,2 +1,3 @@
-# IIC3633-Blog
-IIC3633 Sistemas Recomendadores - Blog lecturas semanales
+### IIC3633 Sistemas Recomendadores - Blog
+
+- [Semana 1](./Blog01.md)
