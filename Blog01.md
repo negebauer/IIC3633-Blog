@@ -4,7 +4,10 @@
       <del>Anterior</del>
     </td>
     <td align="center">
-      <a href="./README.md">Ver todo</a>
+      <a href="./Lecturas/Blog01">Lecturas</a>
+    </td>
+    <td align="center">
+      <a href="./README.md">Indice</a>
     </td>
     <td align="center">
       <a href="./Blog02.md">Siguiente</a>
