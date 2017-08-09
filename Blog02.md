@@ -1,15 +1,15 @@
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td>
       <a href="./Blog01.md">Anterior</a>
     </td>
-    <td align="center">
+    <td>
       <a href="./Lecturas/Blog02">Lecturas</a>
     </td>
-    <td align="center">
-      <a href="./README.md">Indice</a>
+    <td>
+      <a href="./Blog03.md">Indice</a>
     </td>
-    <td align="center">
+    <td>
       <del>Siguiente</del>
     </td>
   </tr>
