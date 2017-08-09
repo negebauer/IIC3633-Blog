@@ -1,5 +1,5 @@
 <table><tr><td>
-  <del>Anterior</del>
+  <a href="./Blog00.md">Anterior</a>
 </td><td>
   <a href="./Lecturas/Blog01">Lecturas</a>
 </td><td>

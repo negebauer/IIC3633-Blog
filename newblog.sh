@@ -27,5 +27,6 @@ echo "<table><tr><td>
 
 mkdir Lecturas/Blog$current
 touch Lecturas/Blog$current/.keep
+rm Lecturas/Blog$before/.keep
 
 echo "- [Blog $1](./Blog$current.md)" >> README.md
