@@ -23,6 +23,8 @@ echo "<table><tr><td>
 ***
 
 # Blog $current
+
+### Referencias
 " > Blog$current.md
 
 mkdir Lecturas/Blog$current
