@@ -16,7 +16,7 @@ echo "Creating blog $current (prev $before, next $next)"
 echo "<table><tr><td>
   <a href=\"./Blog$before.md\">Anterior</a>
 </td><td>
-  <a href=\"./Lecturas/Blog$current\">Lecturas</a>
+  <a href=\"./Lecturas/Blog$current.pdf\">Lecturas</a>
 </td><td>
   <a href=\"./README.md\">Indice</a>
 </td><td>
@@ -29,9 +29,5 @@ echo "<table><tr><td>
 
 ### Referencias
 " > Blog$current.md
-
-mkdir Lecturas/Blog$current
-touch Lecturas/Blog$current/.keep
-rm Lecturas/Blog$before/.keep
 
 echo "1. [title](./Blog$current.md)" >> README.md
