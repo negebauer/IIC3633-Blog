@@ -20,6 +20,8 @@ Me gustó que para explicar el algoritmo de CF basado en los vecinos más cercan
 
 También destaca como para CF basado en vecinos e _items_ menciona los desafíos que presenta cada algoritmo. Aunque me habría gustado un poco más de detalle o un ejemplo, algunos me costo entenderlos.
 
+Me gustó la explicación de los algoritmos probabilísticos. Como aprovechan formalismos bien entendidos de probabilidades.
+
 
 
 ### Referencias
