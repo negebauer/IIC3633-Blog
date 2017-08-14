@@ -3,4 +3,4 @@
 ##### Indice
 
 1. [How Not To Sort By Average Rating](./Blog01.md)
-- [Collaborative Filtering](./Blog02.md)
+1. [Collaborative Filtering](./Blog02.md)
