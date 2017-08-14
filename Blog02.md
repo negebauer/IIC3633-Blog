@@ -33,7 +33,6 @@ Me gusta el tema de la navegación social y como se conecta con el principio de 
 Me queda preocupando el tema de la seguridad. Hasta leer la lectura no había considerado muy a fondo la posibilidad de alterar los _ratings_ de manera maliciosa. El que no haya como detectar ataques y que estos terminen siendo potenciados por los usuarios regulares (que pueden modificar sus preferencias para acercarse más al sistema recomendador) es un tema interesante.
 
 
-
 ### Referencias
 
 Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.
