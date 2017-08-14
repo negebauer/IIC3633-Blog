@@ -28,6 +28,8 @@ Me llama la atención que no haya consenso sobre una métrica principal para eva
 
 Destaca el tema de la explicación sobre porque el CF hizo una recomendación en la interfaces. Esto me recuerda a Netflix, que recomienda con mensajes tipo "Te muestro esto porque viste esto otro" o "Porque agregaste esto a tu lista". Estos mensajes agregan valor a la recomendación y permiten al usuario poder evaluarlas mejor (por ejemplo, saber a que serie se parece la que me están ofreciendo).
 
+Me gusta el tema de la navegación social y como se conecta con el principio de la lectura, donde se habla sobre el boca a boca y como las personas tienen sus círculos de amigos que les recomiendan. En ellos se forma la dinámica de "las recomendaciones de tal son buenas, las de tal otro no tanto". Estas dinámicas se emulan en sitios web y terminan dando lugar a grupos con interacciones sociales. Es decir, un sistema CF puede pasar de estar recomendando productos a estar uniendo comunidades.
+
 
 
 ### Referencias
