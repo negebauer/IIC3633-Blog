@@ -22,6 +22,8 @@ También destaca como para CF basado en vecinos e _items_ menciona los desafíos
 
 Me gustó la explicación de los algoritmos probabilísticos. Como aprovechan formalismos bien entendidos de probabilidades.
 
+La sección sobre como obtener _ratings_ es bastante detallada, haciendo una buena diferencia entre el rating explícito e implícito. Llama la atención que los investigadores consideraban que los usuarios de sistemas no iban a invertir tiempo en _ratings_, lo cual si termino siendo el caso.
+
 
 
 ### Referencias
