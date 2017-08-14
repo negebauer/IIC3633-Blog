@@ -12,7 +12,7 @@
 
 # How Not To Sort By Average Rating
 
-El artículo web habla sobre distintas manera de ordenar ratings por sus promedios. Enuncia distintas maneras _naive_ que uno podría usar y las va refutando, hasta llegar a un modelo que si funciona.
+El artículo web habla sobre distintas manera de ordenar ratings por sus promedios. Enuncia distintas maneras _naïve_ que uno podría usar y las va refutando, hasta llegar a un modelo que si funciona.
 
 Destaca de la lectura como va viendo cada método. Primero lo enuncia rápidamente, explica como se implementaría y finalmente da un ejemplo de porque **no sirve**.
 
