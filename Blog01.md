@@ -1,7 +1,7 @@
 <table><tr><td>
   <a href="./Blog00.md">Anterior</a>
 </td><td>
-  <a href="./Lecturas/Blog01.pdf">Lecturas</a>
+  <a href="./Lecturas/Blog01.pdf">Lectura</a>
 </td><td>
   <a href="./README.md">Indice</a>
 </td><td>
