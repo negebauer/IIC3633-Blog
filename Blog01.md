@@ -10,4 +10,8 @@
 
 ***
 
-# Blog 01
+# How Not To Sort By Average Rating
+
+### Referencias
+
+Miller, E. (2009). _How Not To Sort By Average Rating. Evanmiller.org._ Retrieved 12 August 2017, from http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
