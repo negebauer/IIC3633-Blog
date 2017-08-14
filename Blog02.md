@@ -30,6 +30,8 @@ Destaca el tema de la explicación sobre porque el CF hizo una recomendación en
 
 Me gusta el tema de la navegación social y como se conecta con el principio de la lectura, donde se habla sobre el boca a boca y como las personas tienen sus círculos de amigos que les recomiendan. En ellos se forma la dinámica de "las recomendaciones de tal son buenas, las de tal otro no tanto". Estas dinámicas se emulan en sitios web y terminan dando lugar a grupos con interacciones sociales. Es decir, un sistema CF puede pasar de estar recomendando productos a estar uniendo comunidades.
 
+Me queda preocupando el tema de la seguridad. Hasta leer la lectura no había considerado muy a fondo la posibilidad de alterar los _ratings_ de manera maliciosa. El que no haya como detectar ataques y que estos terminen siendo potenciados por los usuarios regulares (que pueden modificar sus preferencias para acercarse más al sistema recomendador) es un tema interesante.
+
 
 
 ### Referencias
