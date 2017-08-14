@@ -18,7 +18,7 @@ La lectura explica CF, sus conceptos principales y un poco de su historia. Luego
 
 Me gustó que para explicar el algoritmo de CF basado en los vecinos más cercanos comienza explicando un _approach naïve_, sobre el cual construye hasta llegar a la fórmula final. Esto permite al lector entender la importancia de cada parte de la fórmula y como está justificada.
 
-También destaca como para CF basado en vecinos e _items_ menciona los desafíos que presenta cada algoritmo.
+También destaca como para CF basado en vecinos e _items_ menciona los desafíos que presenta cada algoritmo. Aunque me habría gustado un poco más de detalle o un ejemplo, algunos me costo entenderlos.
 
 
 
