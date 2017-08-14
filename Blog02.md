@@ -26,6 +26,10 @@ La sección sobre como obtener _ratings_ es bastante detallada, haciendo una bue
 
 Me llama la atención que no haya consenso sobre una métrica principal para evaluar sistemas CF. Me gustó la idea de _serendipity_, lo encuentro muy importante en un CF ya que no encuentro mucho más valioso que me recomienden algo que no habría descubierto por mi cuenta, versus algo que si.
 
+Destaca el tema de la explicación sobre porque el CF hizo una recomendación en la interfaces. Esto me recuerda a Netflix, que recomienda con mensajes tipo "Te muestro esto porque viste esto otro" o "Porque agregaste esto a tu lista". Estos mensajes agregan valor a la recomendación y permiten al usuario poder evaluarlas mejor (por ejemplo, saber a que serie se parece la que me están ofreciendo).
+
+
+
 ### Referencias
 
 Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.
