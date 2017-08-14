@@ -24,9 +24,7 @@ Me gustó la explicación de los algoritmos probabilísticos. Como aprovechan fo
 
 La sección sobre como obtener _ratings_ es bastante detallada, haciendo una buena diferencia entre el rating explícito e implícito. Llama la atención que los investigadores consideraban que los usuarios de sistemas no iban a invertir tiempo en _ratings_, lo cual si termino siendo el caso.
 
-Me llama la atención que no haya consenso sobre una métrica principal para evaluar sistemas _CF_.
-
-
+Me llama la atención que no haya consenso sobre una métrica principal para evaluar sistemas CF. Me gustó la idea de _serendipity_, lo encuentro muy importante en un CF ya que no encuentro mucho más valioso que me recomienden algo que no habría descubierto por mi cuenta, versus algo que si.
 
 ### Referencias
 
