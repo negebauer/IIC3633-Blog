@@ -8,7 +8,7 @@ if [[ $before -lt 10 ]]; then before="0$before"; fi
 if [[ $current -lt 10 ]]; then current="0$current"; fi
 if [[ $next -lt 10 ]]; then next="0$next"; fi
 
-title="Blog $current"
+title="Blog $1"
 if [[ $2 ]]; then title=$2; fi
 
 echo "Creating blog $current (prev $before, next $next)"
@@ -34,4 +34,4 @@ mkdir Lecturas/Blog$current
 touch Lecturas/Blog$current/.keep
 rm Lecturas/Blog$before/.keep
 
-echo "1. [Blog $1](./Blog$current.md)" >> README.md
+echo "1. [title](./Blog$current.md)" >> README.md
