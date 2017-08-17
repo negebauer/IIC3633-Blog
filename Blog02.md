@@ -35,4 +35,4 @@ Me queda preocupando el tema de la seguridad. Hasta leer la lectura no había co
 
 ### Referencias
 
-Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). Collaborative filtering recommender systems. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.
+Schafer, J. B., Frankowski, D., Herlocker, J., & Sen, S. (2007). _Collaborative filtering recommender systems_. In The adaptive web (pp. 291-324). Springer Berlin Heidelberg.
