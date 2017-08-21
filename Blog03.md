@@ -42,7 +42,7 @@ Me habría gustado ver un poco más de ello.
 De todas maneras se explica bien porque se usa la técnica elegida.
 
 Me gusta el detalle de las experimentaciones y las figuras que las acompañan.
-Queda muy claro que _item_item_ es un muy buen sistema _CF_
+Queda muy claro que _item_item_ es un muy buen sistema _CF_.
 
 ### Referencias
 
