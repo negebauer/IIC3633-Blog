@@ -36,6 +36,11 @@ Interesante el que dado que se esta filtrando por items, los cuales son más est
 Esto permite reducir el trabajo de cómputo, pero se tiene un _trade off_.
 Este es el común memoria vs rendimiento.
 
+Me llama la atención que el paper es bastante detallado con varios temas, pero cuando se llega a la sección de métricas de evaluación esto ya no se cumple.
+Menciona varias técnicas de evaluación pero solo se explican 2 en detalle.
+Me habría gustado ver un poco más de ello.
+De todas maneras se explica bien porque se usa la técnica elegida.
+
 
 
 ### Referencias
