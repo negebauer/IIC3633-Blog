@@ -27,6 +27,9 @@ Hace que el paper sea más accesible para cualquier lector y en particular me si
 
 Se explica detalladamente el problema de _CF_
  basado en usuarios, siguiendo con la misma lína del principio del paper.
+ Con ello queda muy claro porque es necesario explorar nuevos modelos de _CF_.
+
+ 
 
 ### Referencias
 
