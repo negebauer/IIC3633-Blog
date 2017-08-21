@@ -12,7 +12,7 @@
 
 # Slope One Predictors for Online Rating-Based Collaborative Filtering
 
-
+Is it too late?
 
 ### Referencias
 
