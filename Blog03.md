@@ -29,7 +29,8 @@ Se explica detalladamente el problema de _CF_
  basado en usuarios, siguiendo con la misma lína del principio del paper.
  Con ello queda muy claro porque es necesario explorar nuevos modelos de _CF_.
 
- 
+Me gusta lo detallado de la explicación de _model based_ _CF_.
+
 
 ### Referencias
 
