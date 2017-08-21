@@ -30,6 +30,12 @@ Se explica detalladamente el problema de _CF_
  Con ello queda muy claro porque es necesario explorar nuevos modelos de _CF_.
 
 Me gusta lo detallado de la explicación de _model based_ _CF_.
+Se explican las fórmulas y se acompañan con figuras para visualizar que está sucediendo.
+
+Interesante el que dado que se esta filtrando por items, los cuales son más estáticos, se abre la posibilidad de guardar el modelo (o parte de este).
+Esto permite reducir el trabajo de cómputo, pero se tiene un _trade off_.
+Este es el común memoria vs rendimiento.
+
 
 
 ### Referencias
