@@ -16,4 +16,4 @@ Is it too late?
 
 ### Referencias
 
-Lemire, D., & Maclachlan, A. (2005, April). _Slope One Predictors for Online Rating-Based Collaborative Filtering_. In SDM (Vol. 5, pp. 1-5).
+Lemire, D., & Maclachlan, A. (2005, April). _Slope One Predictors for Online Rating-Based Collaborative Filtering._ In SDM (Vol. 5, pp. 1-5).
