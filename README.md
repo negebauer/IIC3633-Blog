@@ -7,3 +7,5 @@
 1. [Item-Based Collaborative Filtering Recommendation Algorithms](./Blog03.md)
 1. [Slope One Predictors for Online Rating-Based Collaborative Filtering](./Blog04.md)
 1. [Matrix factorization techniques for recommender systems](./Blog05.md)
+1. [Evaluating recommendation systems](./Blog06.md)
+1. [Collaborative filtering for implicit feedback datasets](./Blog07.md)
