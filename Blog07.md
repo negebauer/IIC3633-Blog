@@ -28,7 +28,10 @@ En línea con lo anterior encuentro muy positivo del paper el análisis que hace
 El paper menciona trabajos previos, los cuales están principalmente enfocados a feedback explícito.
 Aporta el análisis de las diferencias que tendrían ambos modelos manejando feedback implícito.
 
+La explicación sobre el funcionamiento es completa y detallada.
+Tuve que leerla de nuevo para poder entender que estaba diciendo.
 
+Importante que se hayan dado el trabajo de ver como poder dar explicaciones de las recomendaciones, acercandose a lo que logra item based.
 
 ### Referencias
 
