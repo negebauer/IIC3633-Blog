@@ -13,3 +13,6 @@
 * Semana 4
   * [Evaluating recommendation systems](./Blog06.md)
   * [Collaborative filtering for implicit feedback datasets](./Blog07.md)
+* Semana 5
+  * [Content-based recommendation systems](./Blog08.md)
+  * [Collaborative filtering for social tagging systems: an experiment with CiteULike](./Blog09.md)
