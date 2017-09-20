@@ -38,6 +38,10 @@ También es útil para futuros investigadores que se menciona una estrategia par
 Se explica como funciona el sistema Entree a través de una historia que deja claro como cada interacción del usuario afecta el resultado final.
 Esto permite al lector entender mejor la recomendación de Entree.
 
+La explicación sobre el sistema híbrido que se usó con EntreeC es muy completa.
+Se van descartando opciones que tienen problemas o cuyo beneficio no es tan alto.
+El ejercicio mental de ejemplo (Alice y Bob) ayuda a comprender mejor aún el efecto del sistema híbrido sobre las recomendaciones, dando al lector otro eje para aprender sobre como funcionan los sistemas híbridos.
+
 
 
 ### Referencias
