@@ -12,8 +12,6 @@
 
 # Hybrid Recommender Systems: Survey and Experiments
 
-<!-- TODO: RESUMEN -->
-
 El paper hace en primer lugar un acercamiento a varios sistemas recomendadores que están siendo usados al momento de escritura.
 Al hacer ello, hace una descripción de cada uno de ellos, mostrando sus puntos fuertes y sus debilidades. También hace comparaciones entre ellos.
 Es una buena descripción del estado del arte.
@@ -35,6 +33,10 @@ La tabla sobre posibles híbridos es muy interesante.
 No solo muestra donde se ha realizado una mayor investigación, sino que también muestra posibles combinaciones interesantes que aún no han sido exploradas.
 Esto puede servir para futuros investigadores al momento de decidir que nuevos híbridos probar.
 También ayuda que se explique porque la tabla se ve de esta manera, mencionando como el estado actual (los datos disponibles abiertamente para los investigadores) ha influenciado los híbridos que han sido explorados.
+También es útil para futuros investigadores que se menciona una estrategia para decidir que sistema híbrido usar, dando preferencia a sistemas como cascada cuando un recomendador sea siempre mejor y a _switching_ cuando el recomendador más fuerte no sea siempre el mismo.
+
+Se explica como funciona el sistema Entree a través de una historia que deja claro como cada interacción del usuario afecta el resultado final.
+Esto permite al lector entender mejor la recomendación de Entree.
 
 
 
