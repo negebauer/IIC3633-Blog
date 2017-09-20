@@ -12,8 +12,6 @@
 
 # Matrix factorization techniques for recommender systems
 
-
-
 ### Referencias
 
 Koren, Y., Bell, R., & Volinsky, C. (2009). _Matrix factorization techniques for recommender systems._ Computer IEEE Magazine, 42(8), 30-37.

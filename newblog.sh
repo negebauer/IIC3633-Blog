@@ -30,4 +30,4 @@ echo "<table><tr><td>
 ### Referencias
 " > Blog$current.md
 
-echo "  * [title](./Blog$current.md)" >> README.md
+echo "  - [title](./Blog$current.md)" >> README.md

@@ -12,8 +12,6 @@
 
 # Collaborative filtering for implicit feedback datasets
 
---> ### RESUMEN ### <--
-
 Me gusta como el paper comienza con un pequeño repaso sobre sistemas recomendadores en general.
 Luego hace el zoom a los sistemas CF basados en feedback explícito.
 Finalmente menciona las dificultades de obtener dicho feedback, o la ausencia del mismo, con lo que pasa a introducir el eje central del paper: El feedback implícito.
