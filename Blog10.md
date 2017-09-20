@@ -42,6 +42,7 @@ La explicación sobre el sistema híbrido que se usó con EntreeC es muy complet
 Se van descartando opciones que tienen problemas o cuyo beneficio no es tan alto.
 El ejercicio mental de ejemplo (Alice y Bob) ayuda a comprender mejor aún el efecto del sistema híbrido sobre las recomendaciones, dando al lector otro eje para aprender sobre como funcionan los sistemas híbridos.
 
+Me gustó como se fue construyendo el sistema híbrido, mencionando distintos approachs y descartándolos por sus debilidades.
 
 
 ### Referencias
