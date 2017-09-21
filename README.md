@@ -18,3 +18,5 @@
   - [Collaborative filtering for social tagging systems: an experiment with CiteULike](./Blog09.md) - **no hecho**
 - Semana 6
   - [Hybrid Recommender Systems: Survey and Experiments](./Blog10.md)
+- Semana 7
+  - [Context-Aware Recommender Systems](./Blog11.md)
