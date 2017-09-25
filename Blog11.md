@@ -26,6 +26,12 @@ Se menciona que el __partially__ no conoce la "estructura" de factores como __Ti
 ¿Al valor? ¿Como cuanto tiempo tomó una compra?
 Habría sido bueno que incluyeran algún ejemplo en esta sección, donde se note la diferencia entre los niveles de conocimiento.
 
+<<<<<<< HEAD
+=======
+A diferencia del párrafo anterior, la sección donde se hace la separación entre los factores de contexto estáticos y dinámicos si se entiende bien.
+Esto gracias al ejemplo que dan, donde en uno los factores no cambian nunca y en el segundo una factor puede llegar a ser ignorado por completo.
+
+>>>>>>> b11
 
 
 ### Referencias
