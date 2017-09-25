@@ -13,7 +13,8 @@ if [[ $2 ]]; then title=$2; fi
 
 echo "Creating blog $current (prev $before, next $next)"
 
-echo "<table><tr><td>
+echo "<!-- español -->
+<table><tr><td>
   <a href=\"./Blog$before.md\">Anterior</a>
 </td><td>
   <a href=\"./Lecturas/Blog$current.pdf\">Lectura</a>
