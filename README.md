@@ -20,3 +20,5 @@
   - [Hybrid Recommender Systems: Survey and Experiments](./Blog10.md)
 - Semana 7
   - [Context-Aware Recommender Systems](./Blog11.md)
+- Semana 8
+  - [Factorization machines](./Blog12.md)
