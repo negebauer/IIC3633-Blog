@@ -22,3 +22,5 @@
   - [Context-Aware Recommender Systems](./Blog11.md)
 - Semana 8
   - [Factorization machines](./Blog12.md)
+- Semana 11
+  - [Don’t look stupid: avoiding pitfalls when recommending research papers](./Blog13.md) - **no hecho**
