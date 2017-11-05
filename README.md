@@ -26,3 +26,5 @@
   - [Don’t look stupid: avoiding pitfalls when recommending research papers](./Blog13.md) - **no hecho**
 - Semana 12
   - [A survey of active learning in collaborative filtering recommender systems](./Blog14.md) - **no hecho**
+- Semana 13
+  - [The link-prediction problem for social networks](./Blog15.md)
